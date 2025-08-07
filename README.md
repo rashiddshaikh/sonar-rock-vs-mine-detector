@@ -40,7 +40,7 @@ sonar-rock-vs-mine-detector/
 └── README.md
 ```
 
-⚙️ Installation & Usage
+## ⚙️ Installation & Usage
 🔃 Clone the Repository
 ```bash
 git clone https://github.com/rashiddshaikh/sonar-rock-vs-mine-detector.git
@@ -64,7 +64,7 @@ streamlit run sonar_predictor.py
 Visit: http://localhost:8501
 
 
-🧠 Model Training
+## 🧠 Model Training
 To retrain the model:
 
 Open sonar_train.ipynb in Jupyter or Colab.
