@@ -28,18 +28,6 @@ A machine learning project that classifies sonar signals to detect whether the o
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-sonar-rock-vs-mine-detector/
-├── sonar_model.pkl           # Trained ML model
-├── sonar.csv                 # Dataset file
-├── sonar_predictor.py        # Streamlit web app
-├── sonar_train.ipynb         # Model training notebook
-├── requirements.txt
-└── README.md
-```
-
 ## ⚙️ Installation & Usage
 🔃 Clone the Repository
 ```bash
