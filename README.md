@@ -79,4 +79,33 @@ Save the model:
 import joblib
 joblib.dump(model, 'sonar_model.pkl')
 ```
+![GitHub Repo stars](https://img.shields.io/github/stars/rashiddshaikh/sonar-rock-vs-mine-detector)
+![GitHub forks](https://img.shields.io/github/forks/rashiddshaikh/sonar-rock-vs-mine-detector)
+![GitHub issues](https://img.shields.io/github/issues/rashiddshaikh/sonar-rock-vs-mine-detector)
+![GitHub last commit](https://img.shields.io/github/last-commit/rashiddshaikh/sonar-rock-vs-mine-detector)
+
+---
+
+## 📄 License  
+This project is licensed under the MIT License.
+
+---
+
+## ✍️ Author  
+**Rashid Shaikh**  
+🔗 GitHub: [@rashiddshaikh](https://github.com/rashiddshaikh)  
+🔗 LinkedIn: [https://linkedin.com/in/rashidshaikh-dev](https://linkedin.com/in/rashidshaikh-dev)  
+📧 Email: [rashiddsk05@gmail.com](mailto:rashiddsk05@gmail.com)
+
+---
+
+## 🌟 Contributing  
+Pull requests are welcome!  
+For major changes, please [open an issue first](https://github.com/rashiddshaikh/sonar-rock-vs-mine-detector/issues).
+
+---
+
+## 🙏 Acknowledgments  
+Project inspired by hands-on machine learning use cases.  
+Thanks to the open-source community for amazing tools.
 
