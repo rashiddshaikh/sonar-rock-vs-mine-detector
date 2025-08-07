@@ -65,20 +65,24 @@ Visit: http://localhost:8501
 
 
 ## 🧠 Model Training
+
 To retrain the model:
 
-Open sonar_train.ipynb in Jupyter or Colab.
+- Open `sonar_train.ipynb` in Jupyter Notebook or Google Colab.
 
-Load and preprocess the dataset.
+- Load and preprocess the dataset.
 
-Train using Logistic Regression / RandomForest.
+- Train the model using **Logistic Regression** or **Random Forest**.
 
-Save the model:
+- Save the trained model:
 
-```python
-import joblib
-joblib.dump(model, 'sonar_model.pkl')
-```
+  ```python
+  import joblib
+  joblib.dump(model, 'sonar_model.pkl')
+  ```
+  
+---
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/rashiddshaikh/sonar-rock-vs-mine-detector)
 ![GitHub forks](https://img.shields.io/github/forks/rashiddshaikh/sonar-rock-vs-mine-detector)
 ![GitHub issues](https://img.shields.io/github/issues/rashiddshaikh/sonar-rock-vs-mine-detector)
