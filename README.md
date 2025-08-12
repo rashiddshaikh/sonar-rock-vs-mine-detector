@@ -49,7 +49,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run sonar_predictor.py
 ```
-Visit: http://localhost:8501
 
 
 ## 🧠 Model Training
